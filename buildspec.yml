@@ -22,5 +22,5 @@ artifacts:
   files:
     - target/nextwork-web-project.war
     - appspec.yml
-    - scripts/**/*
+    - script/**/*
   discard-paths: no
